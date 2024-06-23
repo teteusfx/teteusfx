@@ -1,7 +1,9 @@
-## 👻 Hi! My name is <strong>Matheus Amaral Lara!</strong>
+## ☀ Olá! Sou <strong>Matheus Amaral Lara!</strong>
 
--> Beginner progammer <br> -> Speak English and Portuguese fluently 🇧🇷 🇺🇸 <br>
--> Knowledge in HTML and CSS sites <br> -> Learning JavaScript, PHP, C##
+Tenho 18 anos, sou formado no curso técnico de DevMobile no COTEMIG, e atualmente estou cursando sistemas de informação!
+
+-> Junior Dev <br> -> Português e Inglês 🇧🇷 🇺🇸 <br>
+-> Knowledge in ReactJS, Swift, HTML CSS <br> -> Learning JavaScript, PHP, C##
 
 <p align="left">
 
@@ -16,6 +18,8 @@
 
 ## ✅ Skills
 
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Swift"/></code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" alt="Swift"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 </code>
@@ -24,7 +28,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png?f=webp&w=256" alt="PHP"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
   
 ---
 
@@ -33,16 +36,23 @@ Na visão geral abaixo você encontrará minha experiência de trabalho e meus e
 
 
 
-**Estágiario em Informática** \
-[**Prefeitura Municipal de Betim**](https://www.betim.mg.gov.br/) • Trainee (Estágiario) \
-Tecnologias: `Manutenção de Computadores` \
+**Estágiario em Informática** / Emprego Atual \
+[**Prefeitura Municipal de Betim**](https://www.betim.mg.gov.br/) • Trainee (Estágiario) • Maio 2024 - Presente \
+Praticando: `Manutenção de Computadores, Trabalho em equipe` 
+
+**Estágiario em Informática** / 2022 \
+[**Secretaria Municipal de Educação Betim**](https://www.betim.mg.gov.br/) • Trainee (Estágiario) • Abril 2022 - Dezembro 2022 \
+Pratiquei: `Manutenção de Computadores, Trabalho em equipe` \
 <br/>
 
+**Cursando Sistemas de Informação** \
+[**PUC Minas - Betim**](https://www.pucminas.br/unidade/betim/Paginas/default.aspx) • Student • Fevereiro 2024 - Presente \
+Aprendendo essas linguagens: `JavaScript`, `C##`, `Bootstrap`, `MySql` \
+Projetos em destaque: [Soon]()
 
-
-**Cursando Ensino Médio Técnico** \
-[**Colégio COTEMIG**](https://www.cotemig.com.br/) • Student \
-Aprendendo essas linguagens: `HTML`, `CSS`, `JavaScript`, `C##`, `PHP`, `MySql` \
+**Ensino Médio Técnico Informática DevMobile** / Completo \
+[**Colégio COTEMIG**](https://www.cotemig.com.br/) • Student • Fevereiro 2021 - Dezembro 2023 \
+Aprendi essas linguagens: `Swift`, `Kotlin`, `ReactJS`, `HTML`, `CSS`, `C##`, `PHP`, `MySql` \
 Projetos em destaque: [Soon]()
 <br/>
 <br/>

@@ -31,14 +31,14 @@
 ### Carreira
 Na visão geral abaixo você encontrará minha experiência de trabalho e meus estudos mais recentes:
 
-[<img align="left" height="94px" width="94px" src="[https://media.licdn.com/dms/image/C4D0BAQHnIl5c0vaWHw/company-logo_200_200/0/1675689553947?e=1688601600&v=beta&t=wcfYZEQ4homCFHYJcCb_x8HxNr_WwTSZ51E_tTHxr1I](https://yt3.googleusercontent.com/4ugZqTrkcMczeFwBuVGdBiGa6dQvVrRewlJkYJthbgMEALeYF82BRmDYmGoyyP_M8wPHbSfXwg=s900-c-k-c0x00ffffff-no-rj)"/>](https://www.betim.mg.gov.br/)
+
 
 **Estágiario em Informática** \
 [**Prefeitura Municipal de Betim**](https://www.betim.mg.gov.br/) • Trainee (Estágiario) \
 Tecnologias: `Manutenção de Computadores` \
 <br/>
 
-[<img align="left" height="94px" width="94px" src="https://media.licdn.com/dms/image/C4E0BAQHNDAjJkf4wWA/company-logo_200_200/0/1549910307642?e=1688601600&v=beta&t=BhkpntQpzJnjca5e94iUJEm569zL9Z7RejHcx9aHLrE"/>](https://www.cotemig.com.br/)
+
 
 **Cursando Ensino Médio Técnico** \
 [**Colégio COTEMIG**](https://www.cotemig.com.br/) • Student \

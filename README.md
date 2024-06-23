@@ -28,10 +28,10 @@
   
 ---
 
-### Work Experience
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+### Carreira
+Na visão geral abaixo você encontrará minha experiência de trabalho e meus estudos mais recentes:
 
-[<img align="left" height="94px" width="94px" src="https://media.licdn.com/dms/image/C4D0BAQHnIl5c0vaWHw/company-logo_200_200/0/1675689553947?e=1688601600&v=beta&t=wcfYZEQ4homCFHYJcCb_x8HxNr_WwTSZ51E_tTHxr1I"/>](https://www.betim.mg.gov.br/)
+[<img align="left" height="94px" width="94px" src="[https://media.licdn.com/dms/image/C4D0BAQHnIl5c0vaWHw/company-logo_200_200/0/1675689553947?e=1688601600&v=beta&t=wcfYZEQ4homCFHYJcCb_x8HxNr_WwTSZ51E_tTHxr1I](https://yt3.googleusercontent.com/4ugZqTrkcMczeFwBuVGdBiGa6dQvVrRewlJkYJthbgMEALeYF82BRmDYmGoyyP_M8wPHbSfXwg=s900-c-k-c0x00ffffff-no-rj)"/>](https://www.betim.mg.gov.br/)
 
 **Estágiario em Informática** \
 [**Prefeitura Municipal de Betim**](https://www.betim.mg.gov.br/) • Trainee (Estágiario) \

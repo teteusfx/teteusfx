@@ -1,6 +1,6 @@
 ## ☀ Olá! Sou <strong>Matheus Amaral Lara!</strong>
 
-Tenho 19 anos, sou formado no curso técnico de DevMobile no COTEMIG, e atualmente estou cursando sistemas de informação!
+Tenho 21 anos, sou formado no curso técnico de DevMobile no COTEMIG, e atualmente estou cursando sistemas de informação!
 
 -> Junior Dev <br> -> Português e Inglês 🇧🇷 🇺🇸 <br>
 -> Knowledge in ReactJS, Swift, HTML CSS <br> -> Learning JavaScript, PHP, C##
